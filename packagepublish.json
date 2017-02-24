@@ -1,0 +1,34 @@
+{
+  "name": "ng2-table-sorting",
+  "version": "0.0.1",
+  "description": "angular 2 directive for server side table sorting",
+  "main": "ng2-table-sorting",
+  "typings": "ng2-table-sorting.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radu-Dunarentu/ng2-table-sorting"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "ng2",
+    "angular 2",
+    "directive",
+    "sort",
+    "table",
+    "server side",
+    "sorting"
+  ],
+  "author": "Radu F. Dunarentu dunarentu.radu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Radu-Dunarentu/ng2-table-sorting/issues"
+  },
+  "homepage": "https://github.com/Radu-Dunarentu/ng2-table-sorting#readme",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
